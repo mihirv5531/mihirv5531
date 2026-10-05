@@ -2,19 +2,6 @@
 
 ## 📊 Data Analyst | Python | SQL | Excel | Power BI | Machine Learning
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mihirv553&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/mihirv5531">
-    <img src="https://img.shields.io/github/followers/mihirv5531?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/mihirv553?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge" alt="Projects"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -86,6 +73,24 @@ My technical background combines **Data Analytics with Machine Learning**, allow
 
 ---
 
+## 📈 Data Analytics Journey
+
+### Core Skills
+
+| Area | Skills |
+|---|---|
+| 🐍 Programming | Python, C++ |
+| 🗄️ Database | SQL, MySQL |
+| 📊 Analytics | Pandas, NumPy |
+| 📈 Visualization | Power BI, Excel, Matplotlib, Seaborn |
+| 🧹 Data Preparation | Data Cleaning, Excel |
+| 🤖 Machine Learning | Scikit-learn, TensorFlow, Keras |
+| 👁️ Computer Vision | OpenCV, YOLO |
+
+These skills are based on the technical stack listed in my resume.
+
+---
+
 ## 📌 Featured Project
 
 ### 🛢️ Oil Spill Detection using Machine Learning
@@ -105,55 +110,6 @@ My technical background combines **Data Analytics with Machine Learning**, allow
 - Contributed to research and survey work around oil-spill detection
 
 🏆 **Achievement:** Won **Best Research** in the Innovation Program at the college level.
-
----
-
-## 📈 Data Analytics Journey
-
-### Core Skills
-
-| Area | Skills |
-|---|---|
-| 🐍 Programming | Python, C++ |
-| 🗄️ Database | SQL, MySQL |
-| 📊 Analytics | Pandas, NumPy |
-| 📈 Visualization | Power BI, Excel, Matplotlib, Seaborn |
-| 🧹 Data Preparation | Data Cleaning, Excel |
-| 🤖 Machine Learning | Scikit-learn, TensorFlow, Keras |
-| 👁️ Computer Vision | OpenCV, YOLO |
-
-These skills are based on the technical stack listed in my resume.
-
----
-
-## 🎓 Education
-
-### 🎓 Parul University
-
-**Bachelor of Technology — Computer Science & Engineering**
-
-📅 June 2020 – April 2024
-
-### 🏫 Sainik School Balachadi, Jamnagar
-
-**CBSE — HSC**
-
-📅 April 2019 – March 2020
-
----
-
-## 📜 Certifications
-
-🏅 **Road Traffic Data Analytics using Machine Learning**  
-*Certificate of Merit*
-
-☁️ **Microsoft Azure Fundamentals — AZ-900**
-
-🌐 **Cisco — Connecting Things in IoT**
-
-🤖 **FICET — IoT and Artificial Intelligence**
-
-🧠 **Infosys — Machine Learning Implementation**
 
 ---
 
@@ -190,8 +146,8 @@ Excel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirv5531&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirv5531&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -199,7 +155,7 @@ Excel
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirv5531&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -207,7 +163,7 @@ Excel
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mihirv5531&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
