@@ -3,14 +3,14 @@
 ## 📊 Data Analyst | Python | SQL | Excel | Power BI | Machine Learning
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mihirv553&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <a href="https://github.com/mihirv5531">
+    <img src="https://img.shields.io/github/followers/mihirv5531?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/mihirv553?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge" alt="Projects"/>
   </a>
 </p>
