@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihirkumar Vaghasiya</h1>
-<h3 align="center">## 👋 About Me Hi, I'm **Mihir**, a Computer Science graduate passionate about **Data Analytics and Machine Learning**. I enjoy transforming raw data into meaningful insights using **Python, SQL, Excel, and Power BI**. My experience includes data cleaning, analysis, visualization, and building machine learning solutions. I have also worked on real-world projects involving **Pandas, NumPy, Matplotlib, OpenCV, and YOLO**, including an award-winning oil spill detection project. 🎯 **Currently focused on:** Data Analytics, Business Intelligence, and turning data into actionable insights.</h3>
+<h3 align="left">👋 About Me Hi, I'm Mihir, a Computer Science graduate passionate about Data Analytics and Machine Learning. I enjoy transforming raw data into meaningful insights using Python, SQL, Excel, and Power BI. My experience includes data cleaning, analysis, visualization, and building machine learning solutions. I have also worked on real-world projects involving Pandas, NumPy, Matplotlib, OpenCV, and YOLO**, including an award-winning oil spill detection project. 🎯 Currently focused on: Data Analytics, Business Intelligence, and turning data into actionable insights.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
